@@ -1,0 +1,10 @@
+{
+  "name": "kanka-mcp",
+  "version": "0.1.2",
+  "private": true,
+  "type": "module",
+  "description": "Zero-dependency stdio MCP server for the Kanka worldbuilding API, with gated writes.",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": { "node": ">=18" }
+}

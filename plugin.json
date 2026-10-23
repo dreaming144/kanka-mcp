@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "kanka-mcp",
+  "version": "0.1.2",
+  "description": "Kanka worldbuilding API for agents: read campaigns, entities, posts, attributes, relations and mentions; gated two-phase writes that default to private/admin; deletes off by default. Includes a one-way Obsidian to Kanka push skill. Zero dependencies.",
+  "author": { "name": "Chris R" },
+  "license": "MIT",
+  "repository": "https://github.com/dreaming144/kanka-mcp",
+  "homepage": "https://github.com/dreaming144/kanka-mcp",
+  "keywords": ["kanka", "ttrpg", "worldbuilding", "campaign-manager", "obsidian", "dnd", "mcp"]
+}
